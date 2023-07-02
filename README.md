@@ -30,3 +30,7 @@ The application is built using **Flutter**, a robust, open-source UI software de
 *   We need to install the latest version of android studio: https://developer.android.com/studio
 
 *   Last, we need to connect our phone via USB hub in our device in order to run the simulation there. Else, we need to install emulators (iOS/Android) and run it directly from there. For more details check: https://developer.android.com/studio/run/emulator
+
+*   Also, all the data are store in cloud, specifically in Fireship (https://firebase.google.com/)
+
+*   You can download our .apk for android directly from here: https://drive.google.com/file/d/1pEp-Bx-wz94FkIaUMTM23d0UQosnU9Gu/view?usp=sharing
